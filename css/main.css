@@ -1,24 +1,8 @@
 /* Place CSS styles here */
-.click {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-right: 20px;
-    padding-left: 20px;
-    color: lightpink;
-    background-color: black;
-    border: 1px solid black;
-    font-size: 20px;
-    font-weight: 600;
-    border-radius: 8px;
-    transition: all .25s ease;
-  }
-  
-  .click:hover {
-    color: black;
-    background-color: lightpink;
-  }
-  
-  /* :focus occurs when you tab into an element */
-  .click:focus {
-    box-shadow: 0 0 0 4px aqua;
-  }
+
+h1 {
+  font-family: 'Unica One', cursive;
+  text-align: center;
+  font-size: 80px;
+  color: #ee6c4d;
+}
